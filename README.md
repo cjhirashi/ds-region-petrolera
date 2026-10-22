@@ -1,4 +1,4 @@
-# 📊 Proyecto Sprint 11 - Selección de Región Petrolera
+# 📊 Selección de Región Petrolera
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?logo=pandas)](https://pandas.pydata.org/)
