@@ -319,5 +319,5 @@ El análisis completo permitió identificar la región óptima para abrir los 20
 ## 👨‍💻 Autor
 
 **Carlos Jiménez Hirashi**
-💼 Data Scientist Jr. | Python & Machine Learning
+💼 Data Scientist & Intelligent Automation Architect
 📧 [cjhirashi@gmail.com](mailto:cjhirashi@gmail.com) · 🌐 [LinkedIn](https://www.linkedin.com/in/cjhirashi)
