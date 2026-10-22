@@ -10,7 +10,7 @@
 
 ## 🚀 Descripción
 
-Proyecto del Sprint 11 de TripleTen. La empresa OilyGiant busca determinar la **región óptima para abrir 200 pozos de petróleo**.
+Proyecto del Sprint 11 del programa de Ciencia de Datos. La empresa OilyGiant busca determinar la **región óptima para abrir 200 pozos de petróleo**.
 Se entrena un modelo de **regresión lineal** para predecir el volumen de reservas en cada región, se seleccionan los pozos más rentables y se calculan beneficios y riesgos mediante **bootstrapping (1000 muestras)**.
 La región final se elige considerando el **mayor beneficio esperado** y un **riesgo de pérdidas < 2.5%**.
 
